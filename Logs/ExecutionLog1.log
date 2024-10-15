@@ -1,0 +1,237 @@
+2024-10-11 16:54:33,689 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-11 16:56:58,562 [main] INFO Coverfox_Log - Launching application
+2024-10-11 16:57:07,995 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-11 16:57:11,734 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-11 16:57:15,704 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-11 16:57:16,323 [main] INFO Coverfox_Log - clicking on next button
+2024-10-11 16:57:17,885 [main] WARN Coverfox_Log - Entering pincode
+2024-10-11 16:57:18,252 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-11 16:57:18,612 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-11 17:01:15,678 [main] INFO Coverfox_Log - Launching application
+2024-10-11 17:01:22,446 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-11 17:01:26,230 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-11 17:01:29,395 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-11 17:01:29,554 [main] INFO Coverfox_Log - clicking on next button
+2024-10-11 17:01:30,971 [main] WARN Coverfox_Log - Entering pincode
+2024-10-11 17:01:31,319 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-11 17:01:31,490 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-11 20:18:27,438 [main] INFO Coverfox_Log - Launching application
+2024-10-11 20:18:43,510 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-11 20:18:46,923 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-11 20:18:51,687 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-11 20:18:52,010 [main] INFO Coverfox_Log - clicking on next button
+2024-10-11 20:18:53,715 [main] WARN Coverfox_Log - Entering pincode
+2024-10-11 20:18:54,121 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-11 20:18:54,405 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 11:22:30,454 [main] INFO Coverfox_Log - Launching application
+2024-10-14 11:22:45,844 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:22:48,740 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:22:52,455 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 11:22:52,603 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 11:22:54,042 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 11:22:54,194 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 11:22:56,981 [main] INFO Coverfox_Log - closing browser
+2024-10-14 11:22:56,993 [main] INFO Coverfox_Log - Launching application
+2024-10-14 11:23:02,422 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:23:04,962 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:23:06,832 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 11:23:07,321 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 11:23:08,695 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 11:23:08,855 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 11:23:09,558 [main] INFO Coverfox_Log - closing browser
+2024-10-14 11:29:55,192 [main] INFO Coverfox_Log - Launching application
+2024-10-14 11:30:00,604 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:30:04,323 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:30:08,296 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 11:30:08,569 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 11:30:09,938 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 11:30:10,246 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 11:30:10,384 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 11:30:14,492 [main] INFO Coverfox_Log - Validating result
+2024-10-14 11:30:15,124 [main] INFO Coverfox_Log - closing browser
+2024-10-14 11:30:15,307 [main] INFO Coverfox_Log - Launching application
+2024-10-14 11:30:23,465 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:30:26,192 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:30:27,953 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 11:30:28,261 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 11:30:29,276 [main] INFO Coverfox_Log - Entering mobile no.
+2024-10-14 11:30:29,564 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 11:30:29,693 [main] WARN Coverfox_Log - Error message displayed for Pincode
+2024-10-14 11:30:30,457 [main] INFO Coverfox_Log - closing browser
+2024-10-14 11:30:30,505 [main] INFO Coverfox_Log - Launching application
+2024-10-14 11:30:36,524 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:30:39,708 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:30:41,308 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 11:30:41,463 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 11:30:42,477 [main] INFO Coverfox_Log - Entering pincode
+2024-10-14 11:30:42,764 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 11:30:42,910 [main] WARN Coverfox_Log - Error message displayed for Pincode
+2024-10-14 11:30:43,754 [main] INFO Coverfox_Log - closing browser
+2024-10-14 11:41:53,029 [main] INFO Coverfox_Log - Launching application
+2024-10-14 11:41:58,724 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:42:01,380 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:42:04,818 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 11:42:04,973 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 11:42:06,344 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 11:42:06,695 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 11:42:06,839 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 11:42:11,053 [main] INFO Coverfox_Log - Validating result
+2024-10-14 11:42:12,992 [main] INFO Coverfox_Log - closing browser
+2024-10-14 11:42:13,035 [main] INFO Coverfox_Log - Launching application
+2024-10-14 11:42:18,361 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:42:20,866 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:42:22,477 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 11:42:22,690 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 11:42:23,706 [main] INFO Coverfox_Log - Entering mobile no.
+2024-10-14 11:42:24,032 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 11:42:24,168 [main] WARN Coverfox_Log - Error message displayed for PincodeField
+2024-10-14 11:42:24,782 [main] INFO Coverfox_Log - closing browser
+2024-10-14 11:42:24,897 [main] INFO Coverfox_Log - Launching application
+2024-10-14 11:42:30,718 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:42:33,574 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 11:42:35,358 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 11:42:35,531 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 11:42:36,539 [main] INFO Coverfox_Log - Entering pincode
+2024-10-14 11:42:36,890 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 11:42:37,034 [main] WARN Coverfox_Log - Error message displayed for MobileField
+2024-10-14 11:42:37,696 [main] INFO Coverfox_Log - closing browser
+2024-10-14 16:09:16,869 [main] INFO Coverfox_Log - Launching application
+2024-10-14 16:09:25,651 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:09:33,881 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:09:34,900 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 16:09:36,509 [main] WARN Coverfox_Log - getting an error on AgeFiled
+2024-10-14 16:09:40,586 [main] INFO Coverfox_Log - closing browser
+2024-10-14 16:47:51,329 [main] INFO Coverfox_Log - Launching application
+2024-10-14 16:48:00,575 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:48:04,037 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:48:05,064 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 16:48:06,532 [main] WARN Coverfox_Log - getting an error on AgeFiled
+2024-10-14 16:48:10,826 [main] INFO Coverfox_Log - closing browser
+2024-10-14 16:50:34,845 [main] INFO Coverfox_Log - Launching application
+2024-10-14 16:50:42,659 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:50:45,988 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:50:50,523 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 16:50:50,701 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 16:50:52,232 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 16:50:52,551 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 16:50:52,719 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 16:50:56,906 [main] INFO Coverfox_Log - Validating result
+2024-10-14 16:50:59,202 [main] INFO Coverfox_Log - closing browser
+2024-10-14 16:50:59,278 [main] INFO Coverfox_Log - Launching application
+2024-10-14 16:51:06,391 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:51:09,841 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:51:12,624 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 16:51:12,830 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 16:51:13,842 [main] INFO Coverfox_Log - Entering mobile no.
+2024-10-14 16:51:14,189 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 16:51:14,420 [main] WARN Coverfox_Log - Error message displayed for PincodeField
+2024-10-14 16:51:16,329 [main] INFO Coverfox_Log - closing browser
+2024-10-14 16:51:16,342 [main] INFO Coverfox_Log - Launching application
+2024-10-14 16:51:22,995 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:51:26,300 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:51:29,437 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 16:51:29,682 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 16:51:30,690 [main] INFO Coverfox_Log - Entering pincode
+2024-10-14 16:51:31,033 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 16:51:31,199 [main] WARN Coverfox_Log - Error message displayed for MobileField
+2024-10-14 16:51:33,622 [main] INFO Coverfox_Log - closing browser
+2024-10-14 16:51:33,641 [main] INFO Coverfox_Log - Launching application
+2024-10-14 16:51:39,826 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:51:42,856 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 16:51:43,886 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 16:51:45,102 [main] WARN Coverfox_Log - getting an error on AgeFiled
+2024-10-14 16:51:47,584 [main] INFO Coverfox_Log - closing browser
+2024-10-14 17:36:23,903 [main] INFO Coverfox_Log - Launching application
+2024-10-14 17:36:30,436 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:36:32,969 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:36:35,699 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 17:36:35,797 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 17:36:37,098 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 17:36:37,458 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 17:36:37,612 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 17:36:41,672 [main] INFO Coverfox_Log - Getting Member Details
+2024-10-14 17:36:43,653 [main] INFO Coverfox_Log - Adding Spouce Details
+2024-10-14 17:36:47,077 [main] INFO Coverfox_Log - closing browser
+2024-10-14 17:39:12,873 [main] INFO Coverfox_Log - Launching application
+2024-10-14 17:39:18,392 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:39:21,064 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:39:23,908 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 17:39:24,093 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 17:39:25,383 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 17:39:25,679 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 17:39:25,795 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 17:39:29,843 [main] INFO Coverfox_Log - Getting Member Details
+2024-10-14 17:39:31,626 [main] INFO Coverfox_Log - Adding Spouce Details
+2024-10-14 17:39:40,725 [main] INFO Coverfox_Log - closing browser
+2024-10-14 17:46:51,342 [main] INFO Coverfox_Log - Launching application
+2024-10-14 17:46:56,703 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:46:59,467 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:47:02,669 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 17:47:02,827 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 17:47:04,107 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 17:47:04,443 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 17:47:04,588 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 17:47:08,643 [main] INFO Coverfox_Log - Getting Member Details
+2024-10-14 17:47:10,343 [main] INFO Coverfox_Log - Adding Spouce Details
+2024-10-14 17:47:14,960 [main] INFO Coverfox_Log - Getting Updated Member Details
+2024-10-14 17:47:14,965 [main] INFO Coverfox_Log - Veryfied updated members
+2024-10-14 17:47:15,720 [main] INFO Coverfox_Log - closing browser
+2024-10-14 17:48:13,673 [main] INFO Coverfox_Log - Launching application
+2024-10-14 17:48:18,797 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:48:21,305 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:48:24,319 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 17:48:24,459 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 17:48:25,740 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 17:48:26,098 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 17:48:26,243 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 17:48:30,308 [main] INFO Coverfox_Log - Getting Member Details
+2024-10-14 17:48:32,005 [main] INFO Coverfox_Log - Adding Spouce Details
+2024-10-14 17:48:36,617 [main] INFO Coverfox_Log - Getting Updated Member Details
+2024-10-14 17:48:37,793 [main] INFO Coverfox_Log - closing browser
+2024-10-14 17:52:18,655 [main] INFO Coverfox_Log - Launching application
+2024-10-14 17:52:23,925 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:52:26,391 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:52:29,489 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 17:52:29,635 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 17:52:30,942 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 17:52:31,331 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 17:52:31,523 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 17:52:35,615 [main] INFO Coverfox_Log - Validating result
+2024-10-14 17:52:36,282 [main] INFO Coverfox_Log - closing browser
+2024-10-14 17:52:36,327 [main] INFO Coverfox_Log - Launching application
+2024-10-14 17:52:39,486 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:52:44,458 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:52:46,328 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 17:52:46,536 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 17:52:47,544 [main] INFO Coverfox_Log - Entering mobile no.
+2024-10-14 17:52:47,914 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 17:52:48,103 [main] WARN Coverfox_Log - Error message displayed for PincodeField
+2024-10-14 17:52:49,220 [main] INFO Coverfox_Log - closing browser
+2024-10-14 17:52:49,228 [main] INFO Coverfox_Log - Launching application
+2024-10-14 17:52:54,777 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:53:00,095 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:53:01,880 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 17:53:02,085 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 17:53:03,096 [main] INFO Coverfox_Log - Entering pincode
+2024-10-14 17:53:03,350 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 17:53:03,594 [main] WARN Coverfox_Log - Error message displayed for MobileField
+2024-10-14 17:53:04,849 [main] INFO Coverfox_Log - closing browser
+2024-10-14 17:53:04,864 [main] INFO Coverfox_Log - Launching application
+2024-10-14 17:53:13,747 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:53:24,084 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:53:25,098 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 17:53:26,687 [main] WARN Coverfox_Log - getting an error on AgeFiled
+2024-10-14 17:53:28,027 [main] INFO Coverfox_Log - closing browser
+2024-10-14 17:53:28,057 [main] INFO Coverfox_Log - Launching application
+2024-10-14 17:53:32,801 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:53:35,504 [main] INFO Coverfox_Log - clicking on gender button
+2024-10-14 17:53:37,221 [main] INFO Coverfox_Log - selecting age from dropdown
+2024-10-14 17:53:37,610 [main] INFO Coverfox_Log - clicking on next button
+2024-10-14 17:53:38,913 [main] WARN Coverfox_Log - Entering pincode
+2024-10-14 17:53:39,407 [main] WARN Coverfox_Log - Entering mobile no.
+2024-10-14 17:53:39,572 [main] INFO Coverfox_Log - clicking on continue button
+2024-10-14 17:53:43,616 [main] INFO Coverfox_Log - Getting Member Details
+2024-10-14 17:53:45,206 [main] INFO Coverfox_Log - Adding Spouce Details
+2024-10-14 17:53:45,669 [main] INFO Coverfox_Log - Getting Updated Member Details
+2024-10-14 17:53:46,687 [main] INFO Coverfox_Log - Veryfied updated members
+2024-10-14 17:53:49,524 [main] INFO Coverfox_Log - closing browser
