@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
@@ -88,6 +89,7 @@ public class TC123_CoverFox_ValidatePolicyCount extends Base
 	@AfterClass
 	public void closeApplication()
 	{
+		Reporter.log("Closing Browser",true);
 		closeBrowser();
 		logger.info("closing browser");
 	}
