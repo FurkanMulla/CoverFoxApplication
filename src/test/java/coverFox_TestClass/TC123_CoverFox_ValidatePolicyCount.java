@@ -89,7 +89,7 @@ public class TC123_CoverFox_ValidatePolicyCount extends Base
 	@AfterClass
 	public void closeApplication()
 	{
-		Reporter.log("Closing Browser",true);
+		Reporter.log("Closing Application",true);
 		closeBrowser();
 		logger.info("closing browser");
 	}
