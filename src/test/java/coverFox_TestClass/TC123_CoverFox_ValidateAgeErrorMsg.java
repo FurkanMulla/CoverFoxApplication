@@ -39,7 +39,8 @@ public class TC123_CoverFox_ValidateAgeErrorMsg extends Base
 		logger= Logger.getLogger("Coverfox_Log");
 		PropertyConfigurator.configure("log4j.properties");
 		logger.info("Launching application");
-		launchApplication();		
+		launchApplication();	
+		Reporter.log("Application launch succefully", true);;
 	}
 	
 	@BeforeMethod
