@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
@@ -34,6 +35,7 @@ public class TC123_CoverFox_ValidateAgeErrorMsg extends Base
 	@BeforeClass
 	public void openApplication() throws IOException, InterruptedException
 	{	
+		Reporter.log("Open application",true);
 		logger= Logger.getLogger("Coverfox_Log");
 		PropertyConfigurator.configure("log4j.properties");
 		logger.info("Launching application");
@@ -49,13 +51,15 @@ public class TC123_CoverFox_ValidateAgeErrorMsg extends Base
 		addressDetails = new CoverFoxAddressDetails(driver);
 		result = new CoverFoxResult(driver);
 		
+		Reporter.log("click on gender",true);
 		logger.info("clicking on gender button");
 		homePage.clickOnGender();
 		Thread.sleep(1000);
-		
+		Reporter.log("click on next",true);
 		healthPlan.clickOnNextButton();
 		logger.info("clicking on gender button");
 		Thread.sleep(1000);
+		Reporter.log("click on next again",true);
 		logger.info("clicking on next button");	
 		memberDetails.clickOnNextButton();
 		Thread.sleep(1000);
@@ -74,6 +78,7 @@ public class TC123_CoverFox_ValidateAgeErrorMsg extends Base
 	@AfterClass
 	public void closeApplication()
 	{
+		Reporter.log("close applicaion",true);
 		closeBrowser();
 		logger.info("closing browser");
 	}
