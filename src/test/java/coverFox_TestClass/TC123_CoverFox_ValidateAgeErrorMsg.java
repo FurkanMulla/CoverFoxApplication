@@ -78,7 +78,7 @@ public class TC123_CoverFox_ValidateAgeErrorMsg extends Base
 	@AfterClass
 	public void closeApplication()
 	{
-		Reporter.log("close applicaion",true);
+		
 		closeBrowser();
 		logger.info("closing browser");
 	}
